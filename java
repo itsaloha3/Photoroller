@@ -1,7 +1,19 @@
 const imagePaths = [
-  'https://drive.google.com/uc?export=view&id=1a2b3c4D5EfGhIJ',
-  'https://drive.google.com/uc?export=view&id=2B3c4D5EfGhIJ6a7b',
-  'https://drive.google.com/uc?export=view&id=3c4D5EfGhIJ6a7b8c'
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+  'https://drive.google.com/uc?export=view&id=1LEzRkw6nLhuFcdYdUGcL34sZMcRq86sK',
+
 ];
 
 function showRandomImage() {
