@@ -1,8 +1,7 @@
 const imagePaths = [
-  'images/image1.jpg',
-  'images/image2.jpg',
-  'images/image3.jpg'
-  // Add more image paths as needed
+  'https://drive.google.com/uc?export=view&id=1a2b3c4D5EfGhIJ',
+  'https://drive.google.com/uc?export=view&id=2B3c4D5EfGhIJ6a7b',
+  'https://drive.google.com/uc?export=view&id=3c4D5EfGhIJ6a7b8c'
 ];
 
 function showRandomImage() {
